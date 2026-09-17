@@ -5,7 +5,7 @@ Projeto de desenvolvimento web criado durante meus estudos de HTML5, CSS3 e Boot
 
 ## 🖥️ Preview
 
-![Preview do projeto](imagem/preview_finas.png)
+![Preview do projeto](img/preview_finas.png)
 
 ## 📌 Sobre o projeto
 
