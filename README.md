@@ -7,6 +7,17 @@ Projeto de desenvolvimento web criado durante meus estudos de HTML5, CSS3 e Boot
 
 ![Preview do projeto](img/preview_finas.png)
 
+## 🎯 Principais funcionalidades
+
+* Menu de navegação com as opções Home, Recursos, Benefícios, Preços e Entrar
+* Campo para inserção de endereço de e-mail
+* Utilização de imagens para composição da interface
+* Organização do conteúdo em três seções principais
+* Layout responsivo para diferentes tamanhos de tela
+* Interface desenvolvida com HTML5, CSS3 e Bootstrap
+* Estrutura visual inspirada em uma plataforma de serviços financeiros
+
+
 ## 📌 Sobre o projeto
 
 O projeto apresenta uma interface web inspirada em uma plataforma de serviços financeiros, utilizando HTML5, CSS3 e Bootstrap para estruturar e estilizar os componentes da página.
